@@ -18,11 +18,20 @@ To explore and visualize the most frequently used words in *Moby Dick* by:
 - matplotlib / seaborn
 - Jupyter Notebook
 
-## 📚 Learning Goals
-- Learn web scraping basics
-- Practice text cleaning and preprocessing
-- Apply basic NLP techniques
-- Visualize text data
+## 📚 Learning Highlights
+- Gained hands-on experience with web scraping
+- Learned HTML parsing and content extraction
+- Practiced text cleaning and preprocessing
+- Applied word frequency analysis using basic NLP
+- Built a professional, portfolio-worthy project
+
+## 📊 Top 20 Most Frequent Words
+
+![Bar Chart of Top Words](bar_chart.png)
+
+## ☁️ Word Cloud (Optional)
+
+![Word Cloud of Moby Dick](wordcloud.png)
 
 ## 📦 Dataset Source
 - [Project Gutenberg - Moby Dick](https://www.gutenberg.org/ebooks/2701)
